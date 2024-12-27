@@ -1,0 +1,22 @@
+{
+  "name": "MEXC | Bitcoin Trading Platform_Ethereum_Litecoin Price Real-time Quotes",
+  "short_name": "MEXC",
+  "description":  "MEXC Exchange is the world’s first user-friendly digital asset service provider, providing real-time prices of crypto tokens such as Bitcoin BTC, Litecoin LTC, and Ethereum ETH. It has hundreds of digital asset deals and investment information. Buy Bitcoin on MEXC Exchange!",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#21202a",
+  "background_color": "#21202a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/sites/favicon-ko-KR.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/sites/favicon-ko-KR.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
